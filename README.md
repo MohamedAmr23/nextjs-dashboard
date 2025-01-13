@@ -36,6 +36,8 @@ Video
 
 https://github.com/user-attachments/assets/7eb261f1-d0c3-4634-8744-9832f4d765d1
 
+## 📂 Folder Structure
+![Capture](https://github.com/user-attachments/assets/99702ce3-12ea-47ff-843f-6084b386f5a5)
 
 
 ## Getting Started
