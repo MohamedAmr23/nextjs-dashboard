@@ -31,6 +31,11 @@ https://nextjs-dashboard-olive.vercel.app/pokemons
 | [<img alt="Sample page" width="400" src="https://raw.githubusercontent.com/kitloong/screenshot/main/en.png">](https://nextjs-dashboard-olive.vercel.app/pokemons) | [<img alt="Sample page" width="400" src="https://raw.githubusercontent.com/kitloong/screenshot/main/ja.png">](https://nextjs-dashboard-olive.vercel.app/pokemons) |
 
 
+Video
+
+
+https://github.com/user-attachments/assets/7eb261f1-d0c3-4634-8744-9832f4d765d1
+
 
 
 ## Getting Started
